@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Fra-maS
-- 👀 I’m interested in Cyber Cecurity
+- 👀 I’m interested in Cyber Security
 - 🌱 I’m currently learning HTML,Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me:
-        Instagram https://www.instagram.com/fra_masaneo/?hl=en 
+        LinkedIn https://www.linkedin.com/in/francesco-masaneo-b549a2293/
         E-mail framasaneo.fm@gmail.com
 
 <!---
